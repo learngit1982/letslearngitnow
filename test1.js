@@ -4,4 +4,6 @@ for (i=0;i<10;i++){
     console.log("learnbranches");
     console.log("PULL REQUEST");
     console.log("cherry pick");
+    console.log("cherrypick");
+    console.log("cherrypick123");
 }
